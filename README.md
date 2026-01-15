@@ -1,2 +1,2 @@
 # pipes
-A Windows XP Pipes screensaver recreation in Python.
+A simple 2D Windows XP Pipes screensaver recreation in Python.
